@@ -1,2 +1,2 @@
 # ghtest
-test-
+test
